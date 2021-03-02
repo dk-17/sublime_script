@@ -1,0 +1,26 @@
+<snippet>
+	<content><![CDATA[
+// Divya Kambaria
+#include<bits/stdc++.h>
+#define ll long long int
+#define pb push_back
+#define mod 1000000007
+using namespace std;
+int main()
+{
+     #ifndef ONLINE_JUDGE
+       freopen("input.txt", "r", stdin);
+       freopen("output.txt", "w", stdout);
+     #endif
+
+	ios_base::sync_with_stdio(false);
+	cin.tie(NULL);
+	//${1:}ll t; cin>>t;while(t--){${2: }}
+	${3:}
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	 <tabTrigger>start</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c++</scope> 
+</snippet>
